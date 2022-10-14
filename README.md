@@ -3,7 +3,7 @@ This was my attempt at creating a Mac application that displays the events, birt
 date in history. You select the month and day and, using a publicly available web API, I download and
 display various events, births and deaths throughout history.
 
-The original app was part of the training to be found on the Ray Wenderlick site. They have an enormously useful book that walks you through the basics of creating a Mac application. Personal experience has shown that there are very few useful resources to do this and I have struggled with even the basics. This book has made developing this application pretty painless.
+The original app was part of the training to be found on the Ray Wenderlich site. They have an enormously useful book [MacOS By Tutorials](https://www.raywenderlich.com/books/macos-by-tutorials) that walks you through the basics of creating a Mac application. Personal experience has shown that there are very few useful resources to do this and I have struggled with even the basics. This book has made developing this application pretty painless.
 
 I can highly recommend the book.
 
